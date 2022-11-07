@@ -2,7 +2,7 @@
 
 link to the portfolio page 
 
-# https://frnega.github.io/hiwina.portfolio.github.io/
+# https://hiwina.portfolio.github.io/
 
 
 ## Built With
