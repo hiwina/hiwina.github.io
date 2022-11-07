@@ -2,7 +2,7 @@
 
 link to the portfolio page 
 
-# https://hiwina.portfolio.github.io/
+# https://hiwina.github.io/
 
 
 ## Built With
